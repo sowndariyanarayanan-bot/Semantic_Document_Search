@@ -1,0 +1,3 @@
+Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence that allows computers to learn from data. It uses algorithms to identify patterns and make predictions. Machine Learning systems improve their performance through experience. It is widely used in recommendation systems, fraud detection and email filtering. Machine Learning helps computers make decisions without being explicitly programmed for every task.

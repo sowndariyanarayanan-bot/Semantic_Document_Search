@@ -1,0 +1,3 @@
+Data Science
+
+Data Science is a field that uses scientific methods to analyze data. It combines statistics, programming and Machine Learning techniques. Data scientists collect, clean and process large datasets. Data analysis helps organizations identify patterns and make better decisions. Data Science is widely used in healthcare, finance, business and research.

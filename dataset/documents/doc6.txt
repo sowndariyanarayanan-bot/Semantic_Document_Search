@@ -1,0 +1,3 @@
+Cybersecurity
+
+Cybersecurity protects computers, networks and digital information from cyber attacks. It helps prevent unauthorized access and data theft. Encryption is used to protect sensitive information. Firewalls and antivirus software help identify and block security threats. Strong passwords and regular software updates improve digital security.

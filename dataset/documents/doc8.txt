@@ -1,0 +1,3 @@
+Robotics
+
+Robotics is a field of technology that focuses on designing and developing robots. Robots can perform tasks automatically with the help of sensors and programming. Industrial robots are used in manufacturing and assembly. Medical robots assist surgeons in hospitals. Robotics improves accuracy, productivity and efficiency in different industries.

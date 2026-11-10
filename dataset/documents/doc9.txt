@@ -1,0 +1,3 @@
+Cloud Computing
+
+Cloud Computing provides computing services through the internet. It allows users to store files and access applications online. Cloud platforms provide storage, databases and computing resources. Businesses use cloud computing to reduce infrastructure costs. It supports scalability, remote access and data backup.

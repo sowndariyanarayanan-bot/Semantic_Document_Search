@@ -1,0 +1,151 @@
+query_id,query,search_type,rank,document_id
+Q1,What is artificial intelligence?,Semantic,1,doc1.txt
+Q1,What is artificial intelligence?,Semantic,2,doc4.txt
+Q1,What is artificial intelligence?,Semantic,3,doc2.txt
+Q1,What is artificial intelligence?,Semantic,4,doc5.txt
+Q1,What is artificial intelligence?,Semantic,5,doc7.txt
+Q1,What is artificial intelligence?,Keyword,1,doc1.txt
+Q1,What is artificial intelligence?,Keyword,2,doc2.txt
+Q1,What is artificial intelligence?,Keyword,3,doc3.txt
+Q1,What is artificial intelligence?,Keyword,4,doc4.txt
+Q1,What is artificial intelligence?,Keyword,5,doc5.txt
+Q2,How do computers learn from data?,Semantic,1,doc2.txt
+Q2,How do computers learn from data?,Semantic,2,doc10.txt
+Q2,How do computers learn from data?,Semantic,3,doc5.txt
+Q2,How do computers learn from data?,Semantic,4,doc1.txt
+Q2,How do computers learn from data?,Semantic,5,doc3.txt
+Q2,How do computers learn from data?,Keyword,1,doc2.txt
+Q2,How do computers learn from data?,Keyword,2,doc3.txt
+Q2,How do computers learn from data?,Keyword,3,doc5.txt
+Q2,How do computers learn from data?,Keyword,4,doc1.txt
+Q2,How do computers learn from data?,Keyword,5,doc7.txt
+Q3,How does the human brain inspire neural networks?,Semantic,1,doc3.txt
+Q3,How does the human brain inspire neural networks?,Semantic,2,doc1.txt
+Q3,How does the human brain inspire neural networks?,Semantic,3,doc2.txt
+Q3,How does the human brain inspire neural networks?,Semantic,4,doc4.txt
+Q3,How does the human brain inspire neural networks?,Semantic,5,doc7.txt
+Q3,How does the human brain inspire neural networks?,Keyword,1,doc3.txt
+Q3,How does the human brain inspire neural networks?,Keyword,2,doc7.txt
+Q3,How does the human brain inspire neural networks?,Keyword,3,doc1.txt
+Q3,How does the human brain inspire neural networks?,Keyword,4,doc4.txt
+Q3,How does the human brain inspire neural networks?,Keyword,5,doc10.txt
+Q4,How can technology help doctors treat patients?,Semantic,1,doc4.txt
+Q4,How can technology help doctors treat patients?,Semantic,2,doc8.txt
+Q4,How can technology help doctors treat patients?,Semantic,3,doc7.txt
+Q4,How can technology help doctors treat patients?,Semantic,4,doc1.txt
+Q4,How can technology help doctors treat patients?,Semantic,5,doc5.txt
+Q4,How can technology help doctors treat patients?,Keyword,1,doc4.txt
+Q4,How can technology help doctors treat patients?,Keyword,2,doc6.txt
+Q4,How can technology help doctors treat patients?,Keyword,3,doc7.txt
+Q4,How can technology help doctors treat patients?,Keyword,4,doc8.txt
+Q4,How can technology help doctors treat patients?,Keyword,5,doc1.txt
+Q5,How can students learn through digital platforms?,Semantic,1,doc5.txt
+Q5,How can students learn through digital platforms?,Semantic,2,doc2.txt
+Q5,How can students learn through digital platforms?,Semantic,3,doc6.txt
+Q5,How can students learn through digital platforms?,Semantic,4,doc9.txt
+Q5,How can students learn through digital platforms?,Semantic,5,doc3.txt
+Q5,How can students learn through digital platforms?,Keyword,1,doc5.txt
+Q5,How can students learn through digital platforms?,Keyword,2,doc2.txt
+Q5,How can students learn through digital platforms?,Keyword,3,doc3.txt
+Q5,How can students learn through digital platforms?,Keyword,4,doc6.txt
+Q5,How can students learn through digital platforms?,Keyword,5,doc1.txt
+Q6,How can we protect computers from cyber attacks?,Semantic,1,doc6.txt
+Q6,How can we protect computers from cyber attacks?,Semantic,2,doc5.txt
+Q6,How can we protect computers from cyber attacks?,Semantic,3,doc9.txt
+Q6,How can we protect computers from cyber attacks?,Semantic,4,doc2.txt
+Q6,How can we protect computers from cyber attacks?,Semantic,5,doc1.txt
+Q6,How can we protect computers from cyber attacks?,Keyword,1,doc6.txt
+Q6,How can we protect computers from cyber attacks?,Keyword,2,doc7.txt
+Q6,How can we protect computers from cyber attacks?,Keyword,3,doc2.txt
+Q6,How can we protect computers from cyber attacks?,Keyword,4,doc1.txt
+Q6,How can we protect computers from cyber attacks?,Keyword,5,doc10.txt
+Q7,How do computers understand human language?,Semantic,1,doc7.txt
+Q7,How do computers understand human language?,Semantic,2,doc1.txt
+Q7,How do computers understand human language?,Semantic,3,doc2.txt
+Q7,How do computers understand human language?,Semantic,4,doc5.txt
+Q7,How do computers understand human language?,Semantic,5,doc3.txt
+Q7,How do computers understand human language?,Keyword,1,doc7.txt
+Q7,How do computers understand human language?,Keyword,2,doc1.txt
+Q7,How do computers understand human language?,Keyword,3,doc2.txt
+Q7,How do computers understand human language?,Keyword,4,doc3.txt
+Q7,How do computers understand human language?,Keyword,5,doc4.txt
+Q8,How are robots used in industries?,Semantic,1,doc8.txt
+Q8,How are robots used in industries?,Semantic,2,doc4.txt
+Q8,How are robots used in industries?,Semantic,3,doc1.txt
+Q8,How are robots used in industries?,Semantic,4,doc7.txt
+Q8,How are robots used in industries?,Semantic,5,doc5.txt
+Q8,How are robots used in industries?,Keyword,1,doc8.txt
+Q8,How are robots used in industries?,Keyword,2,doc4.txt
+Q8,How are robots used in industries?,Keyword,3,doc1.txt
+Q8,How are robots used in industries?,Keyword,4,doc10.txt
+Q8,How are robots used in industries?,Keyword,5,doc2.txt
+Q9,How can files be stored using the internet?,Semantic,1,doc9.txt
+Q9,How can files be stored using the internet?,Semantic,2,doc5.txt
+Q9,How can files be stored using the internet?,Semantic,3,doc6.txt
+Q9,How can files be stored using the internet?,Semantic,4,doc10.txt
+Q9,How can files be stored using the internet?,Semantic,5,doc7.txt
+Q9,How can files be stored using the internet?,Keyword,1,doc6.txt
+Q9,How can files be stored using the internet?,Keyword,2,doc10.txt
+Q9,How can files be stored using the internet?,Keyword,3,doc2.txt
+Q9,How can files be stored using the internet?,Keyword,4,doc7.txt
+Q9,How can files be stored using the internet?,Keyword,5,doc9.txt
+Q10,How can data help businesses make decisions?,Semantic,1,doc10.txt
+Q10,How can data help businesses make decisions?,Semantic,2,doc2.txt
+Q10,How can data help businesses make decisions?,Semantic,3,doc4.txt
+Q10,How can data help businesses make decisions?,Semantic,4,doc9.txt
+Q10,How can data help businesses make decisions?,Semantic,5,doc7.txt
+Q10,How can data help businesses make decisions?,Keyword,1,doc10.txt
+Q10,How can data help businesses make decisions?,Keyword,2,doc2.txt
+Q10,How can data help businesses make decisions?,Keyword,3,doc6.txt
+Q10,How can data help businesses make decisions?,Keyword,4,doc7.txt
+Q10,How can data help businesses make decisions?,Keyword,5,doc9.txt
+Q11,What are intelligent machines?,Semantic,1,doc1.txt
+Q11,What are intelligent machines?,Semantic,2,doc4.txt
+Q11,What are intelligent machines?,Semantic,3,doc2.txt
+Q11,What are intelligent machines?,Semantic,4,doc8.txt
+Q11,What are intelligent machines?,Semantic,5,doc5.txt
+Q11,What are intelligent machines?,Keyword,1,doc1.txt
+Q11,What are intelligent machines?,Keyword,2,doc10.txt
+Q11,What are intelligent machines?,Keyword,3,doc2.txt
+Q11,What are intelligent machines?,Keyword,4,doc3.txt
+Q11,What are intelligent machines?,Keyword,5,doc4.txt
+Q12,How can machines recognize images?,Semantic,1,doc3.txt
+Q12,How can machines recognize images?,Semantic,2,doc2.txt
+Q12,How can machines recognize images?,Semantic,3,doc4.txt
+Q12,How can machines recognize images?,Semantic,4,doc1.txt
+Q12,How can machines recognize images?,Semantic,5,doc8.txt
+Q12,How can machines recognize images?,Keyword,1,doc1.txt
+Q12,How can machines recognize images?,Keyword,2,doc7.txt
+Q12,How can machines recognize images?,Keyword,3,doc10.txt
+Q12,How can machines recognize images?,Keyword,4,doc2.txt
+Q12,How can machines recognize images?,Keyword,5,doc3.txt
+Q13,What technology helps in online education?,Semantic,1,doc5.txt
+Q13,What technology helps in online education?,Semantic,2,doc6.txt
+Q13,What technology helps in online education?,Semantic,3,doc7.txt
+Q13,What technology helps in online education?,Semantic,4,doc1.txt
+Q13,What technology helps in online education?,Semantic,5,doc9.txt
+Q13,What technology helps in online education?,Keyword,1,doc4.txt
+Q13,What technology helps in online education?,Keyword,2,doc5.txt
+Q13,What technology helps in online education?,Keyword,3,doc7.txt
+Q13,What technology helps in online education?,Keyword,4,doc1.txt
+Q13,What technology helps in online education?,Keyword,5,doc10.txt
+Q14,How can hospitals improve patient care?,Semantic,1,doc4.txt
+Q14,How can hospitals improve patient care?,Semantic,2,doc8.txt
+Q14,How can hospitals improve patient care?,Semantic,3,doc1.txt
+Q14,How can hospitals improve patient care?,Semantic,4,doc2.txt
+Q14,How can hospitals improve patient care?,Semantic,5,doc3.txt
+Q14,How can hospitals improve patient care?,Keyword,1,doc4.txt
+Q14,How can hospitals improve patient care?,Keyword,2,doc8.txt
+Q14,How can hospitals improve patient care?,Keyword,3,doc1.txt
+Q14,How can hospitals improve patient care?,Keyword,4,doc2.txt
+Q14,How can hospitals improve patient care?,Keyword,5,doc5.txt
+Q15,How can organizations identify patterns in data?,Semantic,1,doc10.txt
+Q15,How can organizations identify patterns in data?,Semantic,2,doc2.txt
+Q15,How can organizations identify patterns in data?,Semantic,3,doc7.txt
+Q15,How can organizations identify patterns in data?,Semantic,4,doc1.txt
+Q15,How can organizations identify patterns in data?,Semantic,5,doc4.txt
+Q15,How can organizations identify patterns in data?,Keyword,1,doc10.txt
+Q15,How can organizations identify patterns in data?,Keyword,2,doc2.txt
+Q15,How can organizations identify patterns in data?,Keyword,3,doc6.txt
+Q15,How can organizations identify patterns in data?,Keyword,4,doc7.txt
+Q15,How can organizations identify patterns in data?,Keyword,5,doc1.txt

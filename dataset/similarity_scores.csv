@@ -1,0 +1,76 @@
+query_id,query,document_id,distance_score,similarity_score
+Q1,What is artificial intelligence?,doc1.txt,0.35485169291496277,0.7380881650953991
+Q1,What is artificial intelligence?,doc4.txt,0.870597243309021,0.5345886206006778
+Q1,What is artificial intelligence?,doc2.txt,0.9425217509269714,0.5147947504437467
+Q1,What is artificial intelligence?,doc5.txt,1.0499811172485352,0.48780937130883933
+Q1,What is artificial intelligence?,doc7.txt,1.0973705053329468,0.47678748101840746
+Q2,How do computers learn from data?,doc2.txt,1.0177416801452637,0.49560357990325443
+Q2,How do computers learn from data?,doc10.txt,1.1827833652496338,0.4581306674405754
+Q2,How do computers learn from data?,doc5.txt,1.2414121627807617,0.44614730686540516
+Q2,How do computers learn from data?,doc1.txt,1.290790319442749,0.4365305682989166
+Q2,How do computers learn from data?,doc3.txt,1.297429084777832,0.4352691478599884
+Q3,How does the human brain inspire neural networks?,doc3.txt,1.0481003522872925,0.48825732532256666
+Q3,How does the human brain inspire neural networks?,doc1.txt,1.31106698513031,0.43270056923236033
+Q3,How does the human brain inspire neural networks?,doc2.txt,1.3234559297561646,0.4303933580977992
+Q3,How does the human brain inspire neural networks?,doc4.txt,1.3630499839782715,0.42318190761097124
+Q3,How does the human brain inspire neural networks?,doc7.txt,1.4367350339889526,0.4103852023512761
+Q4,How can technology help doctors treat patients?,doc4.txt,0.9467910528182983,0.5136658084350328
+Q4,How can technology help doctors treat patients?,doc8.txt,1.3836545944213867,0.4195238699182178
+Q4,How can technology help doctors treat patients?,doc7.txt,1.5451054573059082,0.3929110273719417
+Q4,How can technology help doctors treat patients?,doc1.txt,1.5487028360366821,0.39235645123502644
+Q4,How can technology help doctors treat patients?,doc5.txt,1.5582481622695923,0.39089249227206846
+Q5,How can students learn through digital platforms?,doc5.txt,0.6911062002182007,0.5913289182376433
+Q5,How can students learn through digital platforms?,doc2.txt,1.5735163688659668,0.38857339789941
+Q5,How can students learn through digital platforms?,doc6.txt,1.6406893730163574,0.3786889931918568
+Q5,How can students learn through digital platforms?,doc9.txt,1.6434069871902466,0.37829967343126714
+Q5,How can students learn through digital platforms?,doc3.txt,1.6942495107650757,0.3711608728161312
+Q6,How can we protect computers from cyber attacks?,doc6.txt,0.7591131925582886,0.5684682510655805
+Q6,How can we protect computers from cyber attacks?,doc5.txt,1.5011993646621704,0.39980819367234527
+Q6,How can we protect computers from cyber attacks?,doc9.txt,1.60109281539917,0.3844537934516334
+Q6,How can we protect computers from cyber attacks?,doc2.txt,1.603572130203247,0.38408768798809323
+Q6,How can we protect computers from cyber attacks?,doc1.txt,1.620587706565857,0.3815937919171756
+Q7,How do computers understand human language?,doc7.txt,1.0686149597167969,0.4834152413443364
+Q7,How do computers understand human language?,doc1.txt,1.3951369524002075,0.4175126599745718
+Q7,How do computers understand human language?,doc2.txt,1.4016525745391846,0.4163799587839529
+Q7,How do computers understand human language?,doc5.txt,1.4521689414978027,0.407802245219366
+Q7,How do computers understand human language?,doc3.txt,1.4558749198913574,0.40718686114691777
+Q8,How are robots used in industries?,doc8.txt,0.6271985173225403,0.6145531656736274
+Q8,How are robots used in industries?,doc4.txt,1.168879508972168,0.4610675677755377
+Q8,How are robots used in industries?,doc1.txt,1.2741765975952148,0.4397195895241518
+Q8,How are robots used in industries?,doc7.txt,1.4651753902435303,0.40565065023678165
+Q8,How are robots used in industries?,doc5.txt,1.4871927499771118,0.4020597117007528
+Q9,How can files be stored using the internet?,doc9.txt,1.3151211738586426,0.43194283361561026
+Q9,How can files be stored using the internet?,doc5.txt,1.4597935676574707,0.4065381799304108
+Q9,How can files be stored using the internet?,doc6.txt,1.6328907012939453,0.3798106771042739
+Q9,How can files be stored using the internet?,doc10.txt,1.639757513999939,0.3788226739374756
+Q9,How can files be stored using the internet?,doc7.txt,1.6943879127502441,0.3711418074835666
+Q10,How can data help businesses make decisions?,doc10.txt,1.0785572528839111,0.4811029374401604
+Q10,How can data help businesses make decisions?,doc2.txt,1.4436376094818115,0.4092259818394497
+Q10,How can data help businesses make decisions?,doc4.txt,1.5356632471084595,0.3943741351066033
+Q10,How can data help businesses make decisions?,doc9.txt,1.5519261360168457,0.3918608716319832
+Q10,How can data help businesses make decisions?,doc7.txt,1.5672870874404907,0.3895162348192895
+Q11,What are intelligent machines?,doc1.txt,0.8975825905799866,0.5269862850577455
+Q11,What are intelligent machines?,doc4.txt,1.0407648086547852,0.49001236975424517
+Q11,What are intelligent machines?,doc2.txt,1.134686827659607,0.468452789909405
+Q11,What are intelligent machines?,doc8.txt,1.1932371854782104,0.45594703875220016
+Q11,What are intelligent machines?,doc5.txt,1.3183197975158691,0.43134687503920816
+Q12,How can machines recognize images?,doc3.txt,1.1997051239013672,0.4546063875263488
+Q12,How can machines recognize images?,doc2.txt,1.2023770809173584,0.45405485221607417
+Q12,How can machines recognize images?,doc4.txt,1.2613117694854736,0.4422211981090668
+Q12,How can machines recognize images?,doc1.txt,1.2674695253372192,0.441020260173631
+Q12,How can machines recognize images?,doc8.txt,1.3645384311676025,0.42291551992504633
+Q13,What technology helps in online education?,doc5.txt,0.6204128861427307,0.6171266647850621
+Q13,What technology helps in online education?,doc6.txt,1.4270389080047607,0.41202470908144107
+Q13,What technology helps in online education?,doc7.txt,1.438528299331665,0.41008340984768277
+Q13,What technology helps in online education?,doc1.txt,1.5779201984405518,0.38790960271187797
+Q13,What technology helps in online education?,doc9.txt,1.6337034702301025,0.37969346636910173
+Q14,How can hospitals improve patient care?,doc4.txt,1.0576002597808838,0.4860030490599234
+Q14,How can hospitals improve patient care?,doc8.txt,1.6211168766021729,0.3815167530019981
+Q14,How can hospitals improve patient care?,doc1.txt,1.689664363861084,0.3717936012523413
+Q14,How can hospitals improve patient care?,doc2.txt,1.6921497583389282,0.3714503611481873
+Q14,How can hospitals improve patient care?,doc3.txt,1.7012803554534912,0.3701948218670253
+Q15,How can organizations identify patterns in data?,doc10.txt,1.0796799659729004,0.4808432145145888
+Q15,How can organizations identify patterns in data?,doc2.txt,1.4731427431106567,0.40434382640697286
+Q15,How can organizations identify patterns in data?,doc7.txt,1.606067180633545,0.3837199621833602
+Q15,How can organizations identify patterns in data?,doc1.txt,1.6530776023864746,0.3769207501131849
+Q15,How can organizations identify patterns in data?,doc4.txt,1.686578631401062,0.37222063345247997

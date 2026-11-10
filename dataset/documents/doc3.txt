@@ -1,0 +1,3 @@
+Deep Learning
+
+Deep Learning is a part of Machine Learning that uses artificial neural networks. It is inspired by the structure of the human brain. Deep Learning can process large amounts of complex data. It is commonly used in image recognition, speech recognition and natural language processing. Deep neural networks can automatically learn useful features from data.
